@@ -1,3 +1,5 @@
 JavaScript reference from MDN:
 https://developer.mozilla.org/
 
+Collision detection based on instructions from:
+http://blog.sklambert.com/html5-canvas-game-2d-collision-detection/
