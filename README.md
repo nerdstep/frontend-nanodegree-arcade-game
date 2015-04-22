@@ -1,6 +1,8 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+#Instructions
 
-for self-checking their submission.
+- To move use the arrow keys
+- Press space to reset the game and start over
+- Collect gems to gain additional points
