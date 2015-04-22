@@ -1,13 +1,30 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <title>Effective JavaScript: Frogger</title>
-    <link rel="stylesheet" href="css/style.css">
+  <title>Effective JavaScript: Frogger</title>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css">
+  <link rel="stylesheet" href="css/style.css">
+
+  <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+  <script src="js/resources.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/engine.js"></script>
 </head>
 <body>
-    <script src="js/resources.js"></script>
-    <script src="js/app.js"></script>
-    <script src="js/engine.js"></script>
+
+<div id="canvas" style="width:505px; height:606px;margin: 0 auto;"></div>
+
+<h1>Score: <span id="score"></span></h1>
+
+<h2>High Score: <span id="highscore"></span></h2>
+
+<h1>Instructions</h1>
+
+<ul style="width:500px;margin:0 auto;text-align:left;">
+  <li>Use arrow keys to move</li>
+  <li>Space to reset the game and start over</li>
+</ul>
+
 </body>
 </html>
