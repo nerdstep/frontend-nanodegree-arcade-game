@@ -1,6 +1,8 @@
 frontend-nanodegree-arcade-game
 ===============================
 
+###[Click here to Play](http://nerdstep.github.io/frontend-nanodegree-arcade-game/)
+
 #Instructions
 
 - To move use the arrow keys
