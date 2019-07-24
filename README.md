@@ -1,9 +1,8 @@
-frontend-nanodegree-arcade-game
-===============================
+# frontend-nanodegree-arcade-game
 
-###[Click here to Play](http://nerdstep.github.io/frontend-nanodegree-arcade-game/)
+### [Click here to Play](http://nerdstep.github.io/frontend-nanodegree-arcade-game/)
 
-#Instructions
+## Instructions
 
 - To move use the arrow keys
 - Press space to reset the game and start over
@@ -11,7 +10,7 @@ frontend-nanodegree-arcade-game
 - Collect gems to gain additional points
 - Don't die
 
-###Gem Points
+### Gem Points
 
 - Blue: 25 points
 - Green: 50 points
