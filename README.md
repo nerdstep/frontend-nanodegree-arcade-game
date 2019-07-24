@@ -1,6 +1,6 @@
 # frontend-nanodegree-arcade-game
 
-### [Click here to Play](http://nerdstep.github.io/frontend-nanodegree-arcade-game/)
+### [Click here to Play](http://nerdstep.github.io/frontend-nanodegree-p3-arcade-game/)
 
 ## Instructions
 
